@@ -70,7 +70,7 @@ body{
 }
 
 .texto button {
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(7, 67, 146);
     padding-left: 10px;
     padding-right: 10px;
     padding-top: 5px;
@@ -81,11 +81,11 @@ body{
 
 .texto button a {
     text-decoration: none;
-    color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
 }
 
 .texto button:hover {
-    background-color: white;
+    background-color: rgb(9, 41, 131);
     cursor: pointer;
 }
 
